@@ -1,0 +1,2 @@
+Super Droid 1,Droid 1
+Droideka 1,Dummy droid
